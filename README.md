@@ -16,6 +16,12 @@ Uma extensão do Experimento Base Original, com foco em experimentos que incluem
 ### 4. [Experimento Original Partições XGBoost](https://github.com/Carlosbera7/ExperimentoOriginalParticoesXgboost/tree/main)
 Este repositório apresenta uma variação do experimento original utilizando somente o classificador XGBoost sem a utilização do LSTM, utilizando de otimização e ajuste de hiperparâmetros para melhorar os resultados obtidos.
 
+### 5. [Salvar Partições Multi-Label](https://github.com/Carlosbera7/SalvarParticoesMultiLabel)
+Este repositório apresenta uma solução para salvar partições de dados dividas em teste e treino baseados em estratificação multi_label apresentada na documentação http://scikit.ml/stratification.html afim de garantir que os experimentos utilizem das mesmas partições. 
+
+### 6. [Experimento Multi-label XGBoost](https://github.com/Carlosbera7/ClassificadorMultiLabel)
+Este repositório apresenta uma variação do experimento utilizando somente o classificador XGBoost baseado em multi-label, adaptado de https://gabrielziegler3.medium.com/multiclass-multilabel-classification-with-xgboost-66195e4d9f2d.
+
 ## Propósito
 Centralizar todos os projetos relacionados é essencial para facilitar o acesso, organização e compartilhamento dos resultados. Cada repositório listado aqui complementa um fluxo de experimentos em aprendizado de máquina e análise de dados.
 
