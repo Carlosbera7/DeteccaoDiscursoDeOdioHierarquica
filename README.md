@@ -22,8 +22,11 @@ Este repositório apresenta uma solução para salvar partições de dados divid
 ### 6. [Experimento Multi-label XGBoost](https://github.com/Carlosbera7/ClassificadorMultiLabel)
 Este repositório apresenta uma variação do experimento utilizando somente o classificador XGBoost baseado em multi-label, adaptado de https://gabrielziegler3.medium.com/multiclass-multilabel-classification-with-xgboost-66195e4d9f2d.
 
-### 7. [Experimento Multi-label Cross Validation](https://github.com/Carlosbera7/MultiLabelCV/tree/main)
+### 7. [Experimento Multi-label Cross Validation](https://github.com/Carlosbera7/MultiLabelCV)
 Este repositório apresenta uma variação do experimento utilizando a estrtutura de multilabel ja testada anteriormente adaptada com cross validation de 5 folds.
+
+### 8. [Experimento Multi-label com HoldOut](https://github.com/Carlosbera7/MultiLabelHoldOut)
+Este repositório apresenta uma variação do experimento utilizando a estrtutura de multilabel ja testada anteriormente adaptada com HoldOut 10x.
 
 ## Propósito
 Centralizar todos os projetos relacionados é essencial para facilitar o acesso, organização e compartilhamento dos resultados. Cada repositório listado aqui complementa um fluxo de experimentos em aprendizado de máquina e análise de dados.
